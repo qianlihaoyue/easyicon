@@ -14,9 +14,9 @@ https://www.easyicon.net/
 
 UI版
 
-![easyicon_UI](img\easyicon_UI.gif)
+![easyicon_UI](http://github.com/qianlihaoyue/easyicon/raw/master/img/easyicon_UI.gif)
 
-console版![easyicon_console](img\easyicon_console.gif)
+console版![easyicon_console](http://github.com/qianlihaoyue/easyicon/raw/master/img/easyicon_console.gif)
 
 
 
